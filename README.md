@@ -1,9 +1,7 @@
 
-Por otra parte, y la más importante, para que los usuarios puedan adquirir los productos que nosotros vendemos y promocionamos ofreciendo combos e insumos. 
 
-Podrán registrarse con un mail, usuario y contraseña y cargar los combos que deseen adquirir. 
 
-Estado del proyecto: El proyecto se encuentra culminado y listo para la entrega. Uno de los cambios que tuvimos que aplicar tiene que ver con el cambio de usuario, en el cual no se modificara la contraseña pero si el mail y el nombre del usuario. 
+Estado del proyecto: El proyecto se encuentra culminado(en su ultima version) y listo para la entrega. Uno de los cambios que tuvimos que aplicar tiene que ver con el cambio de usuario, en el cual no se modificara la contraseña pero si el mail y el nombre del usuario. 
 No contiene guía de instalacion ya que es un blog. 
 
 Funcionamiento: Inicio: Donde se encentra informacion tanto de los creadores como informacion histórica sobre el mate. 
