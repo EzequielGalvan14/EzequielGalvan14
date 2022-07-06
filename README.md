@@ -1,4 +1,4 @@
-Descripción del proyecto: Hicimos un blog web en base a insumos para la industria matera, en donde se puede encontrar información histórica sobre el mate, su origen y su uso. 
+
 Por otra parte, y la más importante, para que los usuarios puedan adquirir los productos que nosotros vendemos y promocionamos ofreciendo combos e insumos. 
 
 Podrán registrarse con un mail, usuario y contraseña y cargar los combos que deseen adquirir. 
